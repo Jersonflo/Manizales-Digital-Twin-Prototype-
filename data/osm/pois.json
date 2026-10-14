@@ -1,0 +1,3023 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-14T02:40:49Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 280877419,
+  "lat": 5.0771816,
+  "lon": -75.5282184,
+  "tags": {
+    "name": "Mirador de Chipre",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 579611744,
+  "lat": 5.0668521,
+  "lon": -75.5168261,
+  "tags": {
+    "name": "Museo del Oro",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 579692258,
+  "lat": 5.0567259,
+  "lon": -75.4911820,
+  "tags": {
+    "name": "Museo Interactivo de la Ciencia y el Juego",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 579737157,
+  "lat": 5.0628269,
+  "lon": -75.4978067,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Clínica Versalles"
+  }
+},
+{
+  "type": "node",
+  "id": 581100710,
+  "lat": 5.0769886,
+  "lon": -75.5278097,
+  "tags": {
+    "artwork_type": "sculpture",
+    "historic": "memorial",
+    "memorial": "statue",
+    "name": "Monumento a los Colonizadores",
+    "tourism": "artwork",
+    "wikidata": "Q28663859",
+    "wikimedia_commons": "Category:Monumento de los colonizadores (Manizales)",
+    "wikipedia": "es:Monumento a los Colonizadores"
+  }
+},
+{
+  "type": "node",
+  "id": 581100723,
+  "lat": 5.0561577,
+  "lon": -75.4864116,
+  "tags": {
+    "height": "54",
+    "man_made": "tower",
+    "material": "wood",
+    "name": "Torre de Herveo",
+    "tourism": "attraction",
+    "wikidata": "Q7826983",
+    "wikimedia_commons": "Category:Torre Herveo",
+    "wikipedia": "es:Torre de Herveo"
+  }
+},
+{
+  "type": "node",
+  "id": 582285061,
+  "lat": 5.0680194,
+  "lon": -75.5175507,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "statue",
+    "name": "Bolívar Cóndor",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 582617757,
+  "lat": 5.0676890,
+  "lon": -75.5105388,
+  "tags": {
+    "historic": "monument",
+    "name": "Monumento a los Fundadores",
+    "wikimedia_commons": "File:Monumento_a_Los_Fundadores.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 596452246,
+  "lat": 5.0670443,
+  "lon": -75.5066736,
+  "tags": {
+    "historic": "memorial",
+    "name": "La Pichinga"
+  }
+},
+{
+  "type": "node",
+  "id": 596662646,
+  "lat": 5.0674265,
+  "lon": -75.5173206,
+  "tags": {
+    "name": "Corredor Polaco",
+    "roof:apex": "yes",
+    "roof:height": "113",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 663523909,
+  "lat": 5.0564836,
+  "lon": -75.4929686,
+  "tags": {
+    "amenity": "theatre",
+    "name": "Teatro 8 de Julio"
+  }
+},
+{
+  "type": "node",
+  "id": 663525099,
+  "lat": 5.0626334,
+  "lon": -75.4989957,
+  "tags": {
+    "amenity": "theatre",
+    "name": "Auditorio Hernando Aristizábal Botero"
+  }
+},
+{
+  "type": "node",
+  "id": 871146539,
+  "lat": 5.0460829,
+  "lon": -75.5150390,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "is_in:state": "Caldas",
+    "is_in:town": "Villamaría",
+    "name": "Hospital San Antonio"
+  }
+},
+{
+  "type": "node",
+  "id": 871146543,
+  "lat": 5.0464569,
+  "lon": -75.5126035,
+  "tags": {
+    "amenity": "theatre",
+    "is_in:state": "Caldas",
+    "is_in:town": "Villamaría",
+    "name": "Teatro Municipal"
+  }
+},
+{
+  "type": "node",
+  "id": 899423945,
+  "lat": 5.0675710,
+  "lon": -75.5128255,
+  "tags": {
+    "historic": "memorial",
+    "name": "Al Sabio Caldas"
+  }
+},
+{
+  "type": "node",
+  "id": 946273087,
+  "lat": 5.0572068,
+  "lon": -75.4793198,
+  "tags": {
+    "alt_name": "La Toscana",
+    "amenity": "hospital",
+    "name": "Clínica de la Policía"
+  }
+},
+{
+  "type": "node",
+  "id": 1110665885,
+  "lat": 5.0671462,
+  "lon": -75.5139658,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "catholic",
+    "name": "Gota de Leche",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 1137671420,
+  "lat": 5.0303313,
+  "lon": -75.5384834,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "catholic",
+    "name": "Parroquia La Sagrada Familia",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 1145554904,
+  "lat": 5.0607764,
+  "lon": -75.4959271,
+  "tags": {
+    "addr:postcode": "170004",
+    "addr:street": "Calle 54",
+    "contact:website": "www.registraduria.gov.co",
+    "name": "Registraduría Especial de Manizales",
+    "office": "government"
+  }
+},
+{
+  "type": "node",
+  "id": 1280358282,
+  "lat": 5.0636619,
+  "lon": -75.5093686,
+  "tags": {
+    "addr:city": "Manizales",
+    "addr:full": "CL 36A 27-96",
+    "addr:housenumber": "27-96",
+    "addr:postcode": "170006",
+    "addr:street": "Calle 36A",
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Centro de salud Assbasalud"
+  }
+},
+{
+  "type": "node",
+  "id": 1419231114,
+  "lat": 5.0643043,
+  "lon": -75.5239379,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "catholic",
+    "name": "San Juan Bautista",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 1513048127,
+  "lat": 5.0626373,
+  "lon": -75.5104730,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "catholic",
+    "name": "María Reina",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 1616704927,
+  "lat": 5.0511647,
+  "lon": -75.4851017,
+  "tags": {
+    "amenity": "hospital",
+    "name": "Clínica Flavio Restrepo"
+  }
+},
+{
+  "type": "node",
+  "id": 1616704932,
+  "lat": 5.0605252,
+  "lon": -75.4917792,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "name": "Clínica Santillana"
+  }
+},
+{
+  "type": "node",
+  "id": 1624240097,
+  "lat": 5.0657863,
+  "lon": -75.5061682,
+  "tags": {
+    "alt_name": "Instituto Colombiano de Bienestar Familiar",
+    "building": "public",
+    "name": "ICBF",
+    "office": "government"
+  }
+},
+{
+  "type": "node",
+  "id": 1660843428,
+  "lat": 5.0423321,
+  "lon": -75.5000167,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "catholic",
+    "name": "María Auxiliadora",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 1690316883,
+  "lat": 5.0672831,
+  "lon": -75.5196943,
+  "tags": {
+    "name": "Almacenes Unidos",
+    "shop": "mall"
+  }
+},
+{
+  "type": "node",
+  "id": 1690316942,
+  "lat": 5.0672395,
+  "lon": -75.5159998,
+  "tags": {
+    "name": "Las Rampas",
+    "shop": "mall"
+  }
+},
+{
+  "type": "node",
+  "id": 1713864745,
+  "lat": 5.0638715,
+  "lon": -75.4943448,
+  "tags": {
+    "alt_name": "CCM",
+    "amenity": "place_of_worship",
+    "fixme": "missing denomination",
+    "name": "Congregación Cristiana de Manizales",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 1713960758,
+  "lat": 5.0680349,
+  "lon": -75.5158284,
+  "tags": {
+    "name": "Plaza Verde",
+    "shop": "mall"
+  }
+},
+{
+  "type": "node",
+  "id": 1731181029,
+  "lat": 5.0383899,
+  "lon": -75.5091527,
+  "tags": {
+    "amenity": "marketplace",
+    "name": "Yeimy"
+  }
+},
+{
+  "type": "node",
+  "id": 1731426201,
+  "lat": 5.0355366,
+  "lon": -75.4859951,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "catholic",
+    "name": "Virgen de las Naciones",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 3261927235,
+  "lat": 5.0567584,
+  "lon": -75.4880473,
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "no",
+    "name": "Jaibaná IPS principal"
+  }
+},
+{
+  "type": "node",
+  "id": 3356305386,
+  "lat": 5.0676821,
+  "lon": -75.4947141,
+  "tags": {
+    "addr:city": "Manizales",
+    "addr:housenumber": "Carrera 16B",
+    "addr:street": "Calle 51C",
+    "amenity": "place_of_worship",
+    "denomination": "catholic",
+    "name": "Nuestra Señora de la Asunción",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 3951781109,
+  "lat": 5.0622770,
+  "lon": -75.4987291,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "catholic",
+    "name": "Claretianos",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 4275646705,
+  "lat": 5.0791866,
+  "lon": -75.5245657,
+  "tags": {
+    "amenity": "theatre",
+    "name": "El Escondite"
+  }
+},
+{
+  "type": "node",
+  "id": 4815414471,
+  "lat": 5.0658621,
+  "lon": -75.4793240,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "catholic",
+    "name": "San Martín de Porres",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 4933954016,
+  "lat": 5.0492744,
+  "lon": -75.5024463,
+  "tags": {
+    "addr:city": "Manizales",
+    "amenity": "place_of_worship",
+    "denomination": "pentecostal",
+    "name": "Iglesia Pentecostal Las Colinas",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 5304071622,
+  "lat": 5.0438977,
+  "lon": -75.5124164,
+  "tags": {
+    "addr:housenumber": "6-01",
+    "addr:street": "Calle 10",
+    "amenity": "hospital",
+    "name": "Nueva eps"
+  }
+},
+{
+  "type": "node",
+  "id": 5670884522,
+  "lat": 5.0766678,
+  "lon": -75.5283355,
+  "tags": {
+    "name": "Mirador de los colonizadores",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 5703217922,
+  "lat": 5.0609542,
+  "lon": -75.4959365,
+  "tags": {
+    "addr:street": "Calle 54",
+    "name": "Registraduría Nacional",
+    "office": "government"
+  }
+},
+{
+  "type": "node",
+  "id": 6195139586,
+  "lat": 5.0620659,
+  "lon": -75.4970780,
+  "tags": {
+    "addr:housenumber": "26-2",
+    "addr:street": "Calle 53",
+    "name": "Migración Colombia",
+    "name:en": "Migration Colombia",
+    "office": "government",
+    "opening_hours": "Mo-Fr 08:00-17:00"
+  }
+},
+{
+  "type": "node",
+  "id": 6335688531,
+  "lat": 5.0609871,
+  "lon": -75.4896670,
+  "tags": {
+    "leisure": "park",
+    "name": "Hydrangea"
+  }
+},
+{
+  "type": "node",
+  "id": 6439933458,
+  "lat": 5.0704880,
+  "lon": -75.5138222,
+  "tags": {
+    "leisure": "park",
+    "name": "Nodo Vial"
+  }
+},
+{
+  "type": "node",
+  "id": 6460040458,
+  "lat": 5.0595683,
+  "lon": -75.4750580,
+  "tags": {
+    "addr:city": "Manizales",
+    "addr:housenumber": "11-68",
+    "addr:street": "Calle 67",
+    "amenity": "place_of_worship",
+    "denomination": "catholic",
+    "name": "Parroquia Nuestra Señora de la Esperanza la Macarena",
+    "religion": "católica"
+  }
+},
+{
+  "type": "node",
+  "id": 7747304590,
+  "lat": 5.0555841,
+  "lon": -75.4908766,
+  "tags": {
+    "historic": "memorial",
+    "material": "reinforced_concrete",
+    "name": "Arco de la Vida"
+  }
+},
+{
+  "type": "node",
+  "id": 7747304609,
+  "lat": 5.0562463,
+  "lon": -75.4916716,
+  "tags": {
+    "historic": "memorial",
+    "name": "Busto al \"Decano Magnífico\""
+  }
+},
+{
+  "type": "node",
+  "id": 8821570343,
+  "lat": 5.0724721,
+  "lon": -75.5249728,
+  "tags": {
+    "name": "Torre al Cielo",
+    "tourism": "attraction",
+    "wikidata": "Q28663842",
+    "wikimedia_commons": "Category:Torre de Chipre 360°",
+    "wikipedia": "es:Torre al Cielo"
+  }
+},
+{
+  "type": "node",
+  "id": 8878175941,
+  "lat": 5.0635739,
+  "lon": -75.4817004,
+  "tags": {
+    "leisure": "park",
+    "name": "Los Yarumos"
+  }
+},
+{
+  "type": "node",
+  "id": 10007407104,
+  "lat": 5.0667515,
+  "lon": -75.5063192,
+  "tags": {
+    "historic": "monument",
+    "name": "Torre del Saber"
+  }
+},
+{
+  "type": "node",
+  "id": 10109579261,
+  "lat": 5.0676712,
+  "lon": -75.5150789,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Iglesia de Cristo"
+  }
+},
+{
+  "type": "node",
+  "id": 10596794338,
+  "lat": 5.0750726,
+  "lon": -75.5350352,
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "temple",
+    "denomination": "roman_catholic",
+    "name": "Parroquia Divino Salvador",
+    "religion": "christian",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10731273907,
+  "lat": 5.0561992,
+  "lon": -75.4864077,
+  "tags": {
+    "historic": "monument",
+    "name": "Torre de Herveo"
+  }
+},
+{
+  "type": "node",
+  "id": 10827803355,
+  "lat": 5.0473775,
+  "lon": -75.4837446,
+  "tags": {
+    "addr:city": "Manizales",
+    "addr:postcode": "170001",
+    "addr:street": "Avenida Alberto Mendoza Hoyos",
+    "leisure": "park",
+    "name": "Estructra Tipo L",
+    "opening_hours": "24/7",
+    "operator": "SV Ingeniería"
+  }
+},
+{
+  "type": "node",
+  "id": 10872392834,
+  "lat": 5.0668660,
+  "lon": -75.5184103,
+  "tags": {
+    "government": "administrative",
+    "level": "12,13,14,15,16,20,22",
+    "name": "Corpocaldas",
+    "office": "government",
+    "opening_hours": "Mo-Fr 07:30-16:30",
+    "website": "https://corpocaldas.gov.co/"
+  }
+},
+{
+  "type": "node",
+  "id": 10876409108,
+  "lat": 5.0825353,
+  "lon": -75.4498212,
+  "tags": {
+    "access": "permit",
+    "addr:city": "Manizales",
+    "addr:postcode": "170017",
+    "description": "¡Bienvenidos a Cantares Reserva Natural! Somos una Reserva de la sociedad civil dedicada a la conservación y promoción de la biodiversidad en uno de los rincones más fascinantes de la naturaleza. Ubicada en la exuberante región de Manizales, Colombia.",
+    "dog": "yes",
+    "ele": "2400 msnm",
+    "email": "reservacantaresinfo@gmail.com",
+    "leisure": "nature_reserve",
+    "name": "Cantares Reserva Natural",
+    "opening_hours": "24/7",
+    "operator": "Armadillo Adventures",
+    "operator:type": "private",
+    "phone": "+57 350 4933139",
+    "source": "gps;5.0823939300404195;-75.44986613152892",
+    "start_date": "2021-12-14",
+    "website": "https://linktr.ee/armadillo.col"
+  }
+},
+{
+  "type": "node",
+  "id": 11668002564,
+  "lat": 5.0698961,
+  "lon": -75.5194683,
+  "tags": {
+    "access": "yes",
+    "historic": "monument",
+    "name": "El Cóndor Baja"
+  }
+},
+{
+  "type": "node",
+  "id": 12911174356,
+  "lat": 5.0681770,
+  "lon": -75.5104442,
+  "tags": {
+    "email": "museodeartedecaldas@gmail.com",
+    "museum": "art",
+    "name": "Museo de Arte de Caldas",
+    "name:es": "Museo de Arte de Caldas",
+    "tourism": "museum",
+    "website": "https://teatrolosfundadores.com/museo-de-arte-de-caldas"
+  }
+},
+{
+  "type": "node",
+  "id": 13173690298,
+  "lat": 5.0551214,
+  "lon": -75.4957951,
+  "tags": {
+    "amenity": "university",
+    "name": "Auditorio Jacs Aprile"
+  }
+},
+{
+  "type": "node",
+  "id": 13462543534,
+  "lat": 5.0454071,
+  "lon": -75.4804835,
+  "tags": {
+    "amenity": "university",
+    "education": "university",
+    "name": "Universidad del Quindío - Sede Manizales"
+  }
+},
+{
+  "type": "node",
+  "id": 13860792092,
+  "lat": 5.0551940,
+  "lon": -75.4882944,
+  "tags": {
+    "name": "Departamento Administrativo Nacional de Estadistica DANE",
+    "office": "government"
+  }
+},
+{
+  "type": "node",
+  "id": 13860995009,
+  "lat": 5.0470882,
+  "lon": -75.4825388,
+  "tags": {
+    "government": "tax",
+    "name": "Direccion de Impuestos y Aduanas Nacionales DIAN",
+    "office": "government"
+  }
+},
+{
+  "type": "node",
+  "id": 13884550315,
+  "lat": 5.0671290,
+  "lon": -75.5144395,
+  "tags": {
+    "government": "administrative",
+    "name": "Camara de Comercio de Manizales",
+    "office": "government"
+  }
+},
+{
+  "type": "node",
+  "id": 13884828105,
+  "lat": 5.0669429,
+  "lon": -75.5185308,
+  "tags": {
+    "government": "administrative",
+    "name": "Fiscalia General de la Nacion",
+    "office": "government"
+  }
+},
+{
+  "type": "node",
+  "id": 14231772410,
+  "lat": 5.0675800,
+  "lon": -75.5027783,
+  "tags": {
+    "addr:city": "Manizales",
+    "addr:housenumber": "43a - 50",
+    "addr:postcode": "170001",
+    "addr:street": "Carrera 19A",
+    "amenity": "university",
+    "education": "university",
+    "name": "INNVESTIGA|CDT"
+  }
+},
+{
+  "type": "node",
+  "id": 14231772411,
+  "lat": 5.0674703,
+  "lon": -75.5029725,
+  "tags": {
+    "amenity": "university",
+    "education": "university",
+    "internet_access:fee": "customers",
+    "name": "Fisioterapia"
+  }
+},
+{
+  "type": "node",
+  "id": 14231772412,
+  "lat": 5.0672924,
+  "lon": -75.5030249,
+  "tags": {
+    "amenity": "university",
+    "education": "university",
+    "internet_access:fee": "customers",
+    "name": "Biblioteca"
+  }
+},
+{
+  "type": "way",
+  "id": 45495422,
+  "center": {
+    "lat": 5.0682658,
+    "lon": -75.5127913
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "6",
+    "name": "Parque Caldas",
+    "shop": "mall"
+  }
+},
+{
+  "type": "way",
+  "id": 45573258,
+  "center": {
+    "lat": 5.0725245,
+    "lon": -75.5253045
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Parque Observatorio de Chipre",
+    "tourism": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 45587329,
+  "center": {
+    "lat": 5.0671237,
+    "lon": -75.5236264
+  },
+  "tags": {
+    "alt_name": "Olaya Herrera",
+    "leisure": "park",
+    "name": "Parque del Agua"
+  }
+},
+{
+  "type": "way",
+  "id": 45703953,
+  "center": {
+    "lat": 5.0684068,
+    "lon": -75.5103652
+  },
+  "tags": {
+    "alt_name": "Centro Cultural y de Convenciones Teatro los Fundadores",
+    "amenity": "theatre",
+    "building": "yes",
+    "is_in:city": "Manizales",
+    "name": "Teatro Fundadores",
+    "name:es": "Teatro Fundadores",
+    "phone": "+57 316 0271434",
+    "website": "https://teatrolosfundadores.com",
+    "wikidata": "Q6139725",
+    "wikipedia": "es:Teatro Fundadores"
+  }
+},
+{
+  "type": "way",
+  "id": 45749623,
+  "center": {
+    "lat": 5.0746649,
+    "lon": -75.5263565
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Parque de los colibríes"
+  }
+},
+{
+  "type": "way",
+  "id": 46593645,
+  "center": {
+    "lat": 5.0514451,
+    "lon": -75.4875880
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "catholic",
+    "name": "Nuestra Señora del Sagrado Corazón",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 46611681,
+  "center": {
+    "lat": 5.0681392,
+    "lon": -75.5199568
+  },
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "building:facade:colour": "brown",
+    "building:levels": "8",
+    "name": "Centro Administrativo Municipal",
+    "roof:colour": "darkred"
+  }
+},
+{
+  "type": "way",
+  "id": 46673392,
+  "center": {
+    "lat": 5.0699207,
+    "lon": -75.5201696
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "catholic",
+    "loc_name": "Los Agustinos",
+    "name": "Sagrado Corazón de Jesús",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 46673394,
+  "center": {
+    "lat": 5.0664471,
+    "lon": -75.5211503
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "catholic",
+    "name": "San Antonio",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 46673408,
+  "center": {
+    "lat": 5.0689247,
+    "lon": -75.5129755
+  },
+  "tags": {
+    "building": "civic",
+    "building:levels": "6",
+    "name": "Concejo Municipal"
+  }
+},
+{
+  "type": "way",
+  "id": 46679912,
+  "center": {
+    "lat": 5.0535807,
+    "lon": -75.4897372
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Sancancio",
+    "shop": "mall"
+  }
+},
+{
+  "type": "way",
+  "id": 46679913,
+  "center": {
+    "lat": 5.0648171,
+    "lon": -75.5026563
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "catholic",
+    "name": "Parroquia Cristo Rey",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 46679924,
+  "center": {
+    "lat": 5.0827964,
+    "lon": -75.5252035
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "catholic",
+    "name": "Nuestra Señora del Pilar",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 46725473,
+  "center": {
+    "lat": 5.0740899,
+    "lon": -75.5245498
+  },
+  "tags": {
+    "alt_name": "Iglesia de Chipre",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "catholic",
+    "name": "Nuestra Señora del Rosario",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 46725474,
+  "center": {
+    "lat": 5.0603577,
+    "lon": -75.5193473
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "catholic",
+    "name": "Nuestra Señora del Carmen",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 46725489,
+  "center": {
+    "lat": 5.0529660,
+    "lon": -75.4972660
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "catholic",
+    "name": "Nuestra Señora de Fátima",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 46751995,
+  "center": {
+    "lat": 5.0562426,
+    "lon": -75.4865064
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Parque Antonio Nariño",
+    "tourism": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 47204277,
+  "center": {
+    "lat": 5.0532470,
+    "lon": -75.4874998
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Parque Palermo"
+  }
+},
+{
+  "type": "way",
+  "id": 47205062,
+  "center": {
+    "lat": 5.0652192,
+    "lon": -75.4992292
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Parque de la Mujer",
+    "old_name": "Parque de los Enamorados"
+  }
+},
+{
+  "type": "way",
+  "id": 47459545,
+  "center": {
+    "lat": 5.0570292,
+    "lon": -75.4900872
+  },
+  "tags": {
+    "is_in:city": "Manizales",
+    "leisure": "stadium",
+    "name": "Estadio Palogrande",
+    "sport": "soccer",
+    "wikipedia": "es:Estadio Palogrande"
+  }
+},
+{
+  "type": "way",
+  "id": 47463347,
+  "center": {
+    "lat": 5.0296402,
+    "lon": -75.4716180
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "Universidad Nacional - Campus La Nubia"
+  }
+},
+{
+  "type": "way",
+  "id": 47465642,
+  "center": {
+    "lat": 5.0569017,
+    "lon": -75.4915856
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "Universidad Nacional - Campus Palogrande"
+  }
+},
+{
+  "type": "way",
+  "id": 47465648,
+  "center": {
+    "lat": 5.0572253,
+    "lon": -75.4913292
+  },
+  "tags": {
+    "amenity": "theatre",
+    "building": "yes",
+    "name": "K"
+  }
+},
+{
+  "type": "way",
+  "id": 47466084,
+  "center": {
+    "lat": 5.0551406,
+    "lon": -75.4857407
+  },
+  "tags": {
+    "amenity": "theatre",
+    "building": "yes",
+    "name": "Teatro Comunale"
+  }
+},
+{
+  "type": "way",
+  "id": 47466085,
+  "center": {
+    "lat": 5.0554534,
+    "lon": -75.4861036
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "Universidad Nacional - Campus El Cable"
+  }
+},
+{
+  "type": "way",
+  "id": 47654234,
+  "center": {
+    "lat": 5.0295864,
+    "lon": -75.4650750
+  },
+  "tags": {
+    "aeroway": "aerodrome",
+    "ele": "2012",
+    "iata": "MZL",
+    "icao": "SKMZ",
+    "is_in": "Manizales, Caldas",
+    "is_in:country": "Colombia",
+    "is_in:country_code": "CO",
+    "name": "Aeropuerto La Nubia",
+    "name:en": "La Nubia Airport",
+    "name:es": "Aeropuerto La Nubia",
+    "ref": "MZL",
+    "type": "civil",
+    "wikidata": "Q1936891",
+    "wikipedia": "es:Aeropuerto de La Nubia"
+  }
+},
+{
+  "type": "way",
+  "id": 47691422,
+  "center": {
+    "lat": 5.0561050,
+    "lon": -75.5245595
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "catholic",
+    "name": "Divino Niño",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 47691424,
+  "center": {
+    "lat": 5.0710563,
+    "lon": -75.5244249
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "mormon",
+    "name": "La Iglesia de Jesucristo de los Santos de los Últimos Días",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 48179405,
+  "center": {
+    "lat": 5.0630113,
+    "lon": -75.4950339
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "catholic",
+    "name": "Santísima Trinidad",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 48189750,
+  "center": {
+    "lat": 5.0689051,
+    "lon": -75.5110801
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "catholic",
+    "name": "La Valvanera",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 48189752,
+  "center": {
+    "lat": 5.0592190,
+    "lon": -75.4898103
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "catholic",
+    "name": "Nuestra Señora de los Dolores",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 49152218,
+  "center": {
+    "lat": 5.0325984,
+    "lon": -75.4502753
+  },
+  "tags": {
+    "amenity": "theatre",
+    "building": "yes",
+    "name": "Auditorio"
+  }
+},
+{
+  "type": "way",
+  "id": 49808709,
+  "center": {
+    "lat": 5.0497380,
+    "lon": -75.5006975
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "catholic",
+    "name": "Pío XII",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 49855624,
+  "center": {
+    "lat": 5.0832105,
+    "lon": -75.5262608
+  },
+  "tags": {
+    "amenity": "hospital",
+    "name": "Instituto del Corazón"
+  }
+},
+{
+  "type": "way",
+  "id": 52046028,
+  "center": {
+    "lat": 5.0327599,
+    "lon": -75.4497747
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "Capilla"
+  }
+},
+{
+  "type": "way",
+  "id": 52099333,
+  "center": {
+    "lat": 5.0638458,
+    "lon": -75.4987334
+  },
+  "tags": {
+    "amenity": "hospital",
+    "name": "Hospital Infantil Universitario Rafael Henao Toro"
+  }
+},
+{
+  "type": "way",
+  "id": 52242770,
+  "center": {
+    "lat": 5.0576143,
+    "lon": -75.4852279
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "catholic",
+    "name": "La Niña María",
+    "opening_hours": "Tu-Su 08:00-15:00; Sa 08:00-12:00",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 60440064,
+  "center": {
+    "lat": 5.0653444,
+    "lon": -75.5025918
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Parque de las Araucarias"
+  }
+},
+{
+  "type": "way",
+  "id": 81219909,
+  "center": {
+    "lat": 5.0503676,
+    "lon": -75.4788095
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "catholic",
+    "name": "Iglesia Redentoristas",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 95121860,
+  "center": {
+    "lat": 5.0493695,
+    "lon": -75.5064823
+  },
+  "tags": {
+    "alt_name": "Milton Gaviria Londoño",
+    "amenity": "bus_station",
+    "building": "transportation",
+    "bus": "yes",
+    "email": "contacto@terminaldemanizales.com.co",
+    "is_in:city": "Manizales",
+    "layer": "1",
+    "name": "Terminal de Transportes de Manizales",
+    "name:es": "Terminal de Transportes de Manizales",
+    "operator": "Terminal de Transportes de Manizales S.A.",
+    "phone": "+57 606 8787858",
+    "public_transport": "station",
+    "toilets": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://terminaldemanizales.com.co"
+  }
+},
+{
+  "type": "way",
+  "id": 96957295,
+  "center": {
+    "lat": 5.0720862,
+    "lon": -75.5149032
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "San José"
+  }
+},
+{
+  "type": "way",
+  "id": 100179046,
+  "center": {
+    "lat": 5.0580027,
+    "lon": -75.5270693
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "El Arenillo"
+  }
+},
+{
+  "type": "way",
+  "id": 102679521,
+  "center": {
+    "lat": 5.0572851,
+    "lon": -75.5062344
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "catholic",
+    "name": "Parroquia Espíritu Santo",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 102711889,
+  "center": {
+    "lat": 5.0352340,
+    "lon": -75.4667448
+  },
+  "tags": {
+    "building": "yes",
+    "historic": "building",
+    "name": "La Alhambra"
+  }
+},
+{
+  "type": "way",
+  "id": 102873602,
+  "center": {
+    "lat": 5.0594824,
+    "lon": -75.4969787
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Los Girasoles"
+  }
+},
+{
+  "type": "way",
+  "id": 106577012,
+  "center": {
+    "lat": 5.0556000,
+    "lon": -75.4934129
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "Universidad de Caldas"
+  }
+},
+{
+  "type": "way",
+  "id": 161135938,
+  "center": {
+    "lat": 5.0464100,
+    "lon": -75.5171656
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Villa Diana"
+  }
+},
+{
+  "type": "way",
+  "id": 161619021,
+  "center": {
+    "lat": 5.0438842,
+    "lon": -75.5216337
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Nereidas"
+  }
+},
+{
+  "type": "way",
+  "id": 206298851,
+  "center": {
+    "lat": 5.0544215,
+    "lon": -75.4947247
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "Escuela Superior de Administración Pública (ESAP)"
+  }
+},
+{
+  "type": "way",
+  "id": 219165572,
+  "center": {
+    "lat": 5.0648746,
+    "lon": -75.5327422
+  },
+  "tags": {
+    "leisure": "nature_reserve",
+    "name": "Ecoparque Alcázares Arenillo",
+    "natural": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 224129054,
+  "center": {
+    "lat": 5.0456420,
+    "lon": -75.5212838
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Jardín Villa Matoso"
+  }
+},
+{
+  "type": "way",
+  "id": 224131793,
+  "center": {
+    "lat": 5.0364856,
+    "lon": -75.5105520
+  },
+  "tags": {
+    "caracateristica": "diversion",
+    "costo": "0",
+    "id_grupo": "juli-juan",
+    "lat": "5.036312",
+    "leisure": "park",
+    "lon": "-75.510676",
+    "name": "Prarque Turín",
+    "tipo": "recreacional"
+  }
+},
+{
+  "type": "way",
+  "id": 322791100,
+  "center": {
+    "lat": 5.0558445,
+    "lon": -75.4861260
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Plazoleta El Cable"
+  }
+},
+{
+  "type": "way",
+  "id": 334609379,
+  "center": {
+    "lat": 5.0558262,
+    "lon": -75.4920911
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Parque La Gotera"
+  }
+},
+{
+  "type": "way",
+  "id": 485775425,
+  "center": {
+    "lat": 5.0362645,
+    "lon": -75.4692721
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Oncólogos de Occidente"
+  }
+},
+{
+  "type": "way",
+  "id": 489390476,
+  "center": {
+    "lat": 5.0667757,
+    "lon": -75.5011180
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "Iglesia de Dios Ministerial de Jesucristo Internacional",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 493479311,
+  "center": {
+    "lat": 5.0501825,
+    "lon": -75.5066412
+  },
+  "tags": {
+    "aerialway": "station",
+    "building": "yes",
+    "building:levels": "3",
+    "name": "Los Cámbulos",
+    "network": "Cable aéreo de Manizales",
+    "network:wikidata": "Q5491143",
+    "operator": "Asociación Cable aéreo de Manizales",
+    "public_transport": "station",
+    "subject:wikidata": "Q5491143",
+    "wikidata": "Q140081562",
+    "wikimedia_commons": "Category:Cable Aéreo de Manizales"
+  }
+},
+{
+  "type": "way",
+  "id": 493501386,
+  "center": {
+    "lat": 5.0770103,
+    "lon": -75.5196123
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "Universidad de Manizales"
+  }
+},
+{
+  "type": "way",
+  "id": 494402703,
+  "center": {
+    "lat": 5.0504453,
+    "lon": -75.4838976
+  },
+  "tags": {
+    "amenity": "hospital",
+    "building": "yes",
+    "emergency": "no",
+    "name": "Jaibaná IPS",
+    "operator": "Coomeva",
+    "website": "https://www.jaibanaips.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 494839103,
+  "center": {
+    "lat": 5.0670505,
+    "lon": -75.5114789
+  },
+  "tags": {
+    "aerialway": "station",
+    "building": "yes",
+    "building:levels": "3",
+    "name": "Fundadores",
+    "network:wikidata": "Q5491143",
+    "public_transport": "station",
+    "wikidata": "Q140081890"
+  }
+},
+{
+  "type": "way",
+  "id": 494839849,
+  "center": {
+    "lat": 5.0487690,
+    "lon": -75.4926588
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Clínica Psiquiátrica San Juan de Dios"
+  }
+},
+{
+  "type": "way",
+  "id": 495183432,
+  "center": {
+    "lat": 5.0426360,
+    "lon": -75.5208154
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Parque de las Garzas"
+  }
+},
+{
+  "type": "way",
+  "id": 495183467,
+  "center": {
+    "lat": 5.0436879,
+    "lon": -75.5187782
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "catholic",
+    "name": "San Judas Tadeo",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 495259874,
+  "center": {
+    "lat": 5.0678897,
+    "lon": -75.5234477
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "Universidad de Caldas - Facultad de Bellas Artes"
+  }
+},
+{
+  "type": "way",
+  "id": 498793045,
+  "center": {
+    "lat": 5.0610294,
+    "lon": -75.5002741
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Faneón"
+  }
+},
+{
+  "type": "way",
+  "id": 498802632,
+  "center": {
+    "lat": 5.0618490,
+    "lon": -75.5004909
+  },
+  "tags": {
+    "building": "public",
+    "name": "Dirección Territorial de Salud de Caldas",
+    "office": "government"
+  }
+},
+{
+  "type": "way",
+  "id": 498802653,
+  "center": {
+    "lat": 5.0626296,
+    "lon": -75.5004447
+  },
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "Hospital de Caldas"
+  }
+},
+{
+  "type": "way",
+  "id": 498802655,
+  "center": {
+    "lat": 5.0619435,
+    "lon": -75.5007911
+  },
+  "tags": {
+    "building": "public",
+    "name": "Instituto de Medicina Legal",
+    "office": "government"
+  }
+},
+{
+  "type": "way",
+  "id": 499707233,
+  "center": {
+    "lat": 5.0658657,
+    "lon": -75.5017008
+  },
+  "tags": {
+    "amenity": "hospital",
+    "check_date": "2022-09-15",
+    "email": "clinpres@col2telecom.com.co",
+    "emergency": "yes",
+    "fax": "+57 606 8850077",
+    "healthcare": "hospital",
+    "healthcare:speciality": "general",
+    "name": "Clínica de La Presentación",
+    "phone": "+57 606 8860549",
+    "source": "local knowledge",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 499715045,
+  "center": {
+    "lat": 5.0579908,
+    "lon": -75.5295842
+  },
+  "tags": {
+    "amenity": "hospital",
+    "emergency": "yes",
+    "healthcare": "hospital",
+    "name": "ESE Hospital Departamental Universitario Santa Sofía de Caldas"
+  }
+},
+{
+  "type": "way",
+  "id": 503321796,
+  "center": {
+    "lat": 5.0338322,
+    "lon": -75.4595506
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "chapel",
+    "denomination": "catholic",
+    "description": "Edificio patrimonial",
+    "name": "Capilla San Pío X",
+    "religion": "christian",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 533306617,
+  "center": {
+    "lat": 5.0314435,
+    "lon": -75.4669351
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "building:levels": "1",
+    "denomination": "catholic",
+    "name": "Parroquia Divino niño Jesús"
+  }
+},
+{
+  "type": "way",
+  "id": 533307834,
+  "center": {
+    "lat": 5.0325524,
+    "lon": -75.4660521
+  },
+  "tags": {
+    "building": "civic",
+    "name": "Cisco La Enea"
+  }
+},
+{
+  "type": "way",
+  "id": 533716567,
+  "center": {
+    "lat": 5.0319099,
+    "lon": -75.4673209
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Parque La Enea"
+  }
+},
+{
+  "type": "way",
+  "id": 534264539,
+  "center": {
+    "lat": 5.0588948,
+    "lon": -75.5089067
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "check_date": "2025-12-01",
+    "name": "Iglesia de Santa Ana",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 534264541,
+  "center": {
+    "lat": 5.0581771,
+    "lon": -75.5088941
+  },
+  "tags": {
+    "aerialway": "station",
+    "building": "yes",
+    "building:levels": "3",
+    "name": "Betania",
+    "network:wikidata": "Q5491143",
+    "public_transport": "station",
+    "wikidata": "Q140082262"
+  }
+},
+{
+  "type": "way",
+  "id": 538385098,
+  "center": {
+    "lat": 5.0683267,
+    "lon": -75.4883372
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "Parroquia de la Presentación",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 538385102,
+  "center": {
+    "lat": 5.0675929,
+    "lon": -75.4856326
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Parque Villa Café"
+  }
+},
+{
+  "type": "way",
+  "id": 538548884,
+  "center": {
+    "lat": 5.0449641,
+    "lon": -75.5122549
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "Nuestra Señora del Rosario",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 538646986,
+  "center": {
+    "lat": 5.0823019,
+    "lon": -75.4900265
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "Parroquia Nuestra Señora de la Candelaria",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 538823287,
+  "center": {
+    "lat": 5.0674693,
+    "lon": -75.5188699
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "3",
+    "historic": "building",
+    "name": "Banco popular"
+  }
+},
+{
+  "type": "way",
+  "id": 539763902,
+  "center": {
+    "lat": 5.0644585,
+    "lon": -75.4950956
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Parque La Leonora"
+  }
+},
+{
+  "type": "way",
+  "id": 552209795,
+  "center": {
+    "lat": 5.0745154,
+    "lon": -75.5189055
+  },
+  "tags": {
+    "addr:street": "carrera 12",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "building:material": "ladrillo",
+    "name": "Jesús Nazareno",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 555319335,
+  "center": {
+    "lat": 5.0686882,
+    "lon": -75.4912164
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "Parroquia de la Santa Cruz"
+  }
+},
+{
+  "type": "way",
+  "id": 555319336,
+  "center": {
+    "lat": 5.0724910,
+    "lon": -75.4902180
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "Iglesia Juan Pablo II"
+  }
+},
+{
+  "type": "way",
+  "id": 555852248,
+  "center": {
+    "lat": 5.0671048,
+    "lon": -75.5197511
+  },
+  "tags": {
+    "addr:housenumber": "22-46",
+    "addr:street": "calle 19 carrera 22",
+    "amenity": "marketplace",
+    "building": "commercial",
+    "building:levels": "3",
+    "building:material": "concrete",
+    "name": "Super Inter"
+  }
+},
+{
+  "type": "way",
+  "id": 556111557,
+  "center": {
+    "lat": 5.0603369,
+    "lon": -75.4873335
+  },
+  "tags": {
+    "addr:city": "Manizales",
+    "addr:housenumber": "60 - 63",
+    "addr:street": "Avenida Santander",
+    "amenity": "university",
+    "internet_access": "yes",
+    "name": "Universidad Católica De Manizales",
+    "operator": "Dominicas de la Presentación de la Santísima Virgen",
+    "operator:type": "private",
+    "website": "https://www.ucm.edu.co/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 557407883,
+  "center": {
+    "lat": 5.0672456,
+    "lon": -75.5197531
+  },
+  "tags": {
+    "addr:housenumber": "22-36",
+    "addr:street": "calle 19 carrera 22",
+    "amenity": "marketplace",
+    "building": "commercial",
+    "building:levels": "3",
+    "building:material": "other",
+    "name": "Almacenes Unidos"
+  }
+},
+{
+  "type": "way",
+  "id": 557420028,
+  "center": {
+    "lat": 5.0684383,
+    "lon": -75.5195220
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "2",
+    "historic": "building",
+    "name": "Casa Jaramillo"
+  }
+},
+{
+  "type": "way",
+  "id": 557478524,
+  "center": {
+    "lat": 5.0671095,
+    "lon": -75.5209906
+  },
+  "tags": {
+    "addr:housenumber": "22-50",
+    "addr:street": "Calle 17",
+    "amenity": "marketplace",
+    "building": "commercial",
+    "building:levels": "2",
+    "building:material": "concrete",
+    "name": "Molduras y Tablillas"
+  }
+},
+{
+  "type": "way",
+  "id": 557844943,
+  "center": {
+    "lat": 5.0770156,
+    "lon": -75.4909113
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Parque Bengala"
+  }
+},
+{
+  "type": "way",
+  "id": 559269968,
+  "center": {
+    "lat": 5.0521155,
+    "lon": -75.4804955
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "Iglesia Testigos de Jehová",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 561622572,
+  "center": {
+    "lat": 5.0675196,
+    "lon": -75.4741067
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "catholic",
+    "name": "Nuestra Señora de la Paz",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 563153054,
+  "center": {
+    "lat": 5.0701105,
+    "lon": -75.5091226
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "catholic",
+    "name": "San Lorenzo",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 573279732,
+  "center": {
+    "lat": 5.0685691,
+    "lon": -75.5168308
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "2",
+    "historic": "building",
+    "name": "Edificio Tamanaco"
+  }
+},
+{
+  "type": "way",
+  "id": 574286673,
+  "center": {
+    "lat": 5.0305995,
+    "lon": -75.4619883
+  },
+  "tags": {
+    "area_1": "Greend Field",
+    "leisure": "park",
+    "name": "Parque Escondido"
+  }
+},
+{
+  "type": "way",
+  "id": 574568553,
+  "center": {
+    "lat": 5.0534230,
+    "lon": -75.4835190
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "Universidad Luis Amigó"
+  }
+},
+{
+  "type": "way",
+  "id": 579666795,
+  "center": {
+    "lat": 5.0609777,
+    "lon": -75.4946823
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "healthcare:speciality": "clinical_pathology",
+    "name": "INSTITUTO CALDENSE DE PATOLOGIA"
+  }
+},
+{
+  "type": "way",
+  "id": 582384101,
+  "center": {
+    "lat": 5.0546212,
+    "lon": -75.4916520
+  },
+  "tags": {
+    "amenity": "theatre",
+    "building": "yes",
+    "name": "Centro Cultural Rogelio Salmona"
+  }
+},
+{
+  "type": "way",
+  "id": 601841383,
+  "center": {
+    "lat": 5.0822564,
+    "lon": -75.4898646
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Parque Bosques Del Norte"
+  }
+},
+{
+  "type": "way",
+  "id": 605473264,
+  "center": {
+    "lat": 5.0561429,
+    "lon": -75.4915069
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Jardín Zen"
+  }
+},
+{
+  "type": "way",
+  "id": 614553346,
+  "center": {
+    "lat": 5.0461756,
+    "lon": -75.5120948
+  },
+  "tags": {
+    "aerialway": "station",
+    "building": "yes",
+    "name": "Villamaría",
+    "network:wikidata": "Q5491143",
+    "network:wikipedia": "Q5491143",
+    "public_transport": "station",
+    "wikidata": "Q140081263"
+  }
+},
+{
+  "type": "way",
+  "id": 617501064,
+  "center": {
+    "lat": 5.0562828,
+    "lon": -75.4855463
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "7",
+    "layer": "1",
+    "name": "Cable Plaza",
+    "shop": "mall"
+  }
+},
+{
+  "type": "way",
+  "id": 617504068,
+  "center": {
+    "lat": 5.0669500,
+    "lon": -75.5054277
+  },
+  "tags": {
+    "building": "train_station",
+    "building:facade:colour": "beige",
+    "building:levels": "1",
+    "historic": "building",
+    "name": "UAM",
+    "roof:colour": "red"
+  }
+},
+{
+  "type": "way",
+  "id": 627181487,
+  "center": {
+    "lat": 5.0797228,
+    "lon": -75.4890756
+  },
+  "tags": {
+    "landuse": "recreation_ground",
+    "leisure": "park",
+    "name": "Parque Bosques del Norte"
+  }
+},
+{
+  "type": "way",
+  "id": 627182664,
+  "center": {
+    "lat": 5.0789798,
+    "lon": -75.4897036
+  },
+  "tags": {
+    "landuse": "recreation_ground",
+    "leisure": "park",
+    "name": "Parque Bengala"
+  }
+},
+{
+  "type": "way",
+  "id": 627810523,
+  "center": {
+    "lat": 5.0734792,
+    "lon": -75.4933822
+  },
+  "tags": {
+    "landuse": "grass",
+    "leisure": "park",
+    "name": "Glorieta San Cayetano"
+  }
+},
+{
+  "type": "way",
+  "id": 627811926,
+  "center": {
+    "lat": 5.0751210,
+    "lon": -75.4967668
+  },
+  "tags": {
+    "landuse": "recreation_ground",
+    "leisure": "park",
+    "name": "Glorieta El Caribe"
+  }
+},
+{
+  "type": "way",
+  "id": 627812802,
+  "center": {
+    "lat": 5.0733360,
+    "lon": -75.5001593
+  },
+  "tags": {
+    "landuse": "recreation_ground",
+    "leisure": "park",
+    "name": "Glorieta Peralonso"
+  }
+},
+{
+  "type": "way",
+  "id": 627814411,
+  "center": {
+    "lat": 5.0714037,
+    "lon": -75.4951657
+  },
+  "tags": {
+    "landuse": "recreation_ground",
+    "leisure": "park",
+    "name": "Parque de Juegos Av Rios"
+  }
+},
+{
+  "type": "way",
+  "id": 664217825,
+  "center": {
+    "lat": 5.0484242,
+    "lon": -75.4769735
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Mirador De Niza"
+  }
+},
+{
+  "type": "way",
+  "id": 793333465,
+  "center": {
+    "lat": 5.0675848,
+    "lon": -75.5104187
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Parque Fundadores"
+  }
+},
+{
+  "type": "way",
+  "id": 859131146,
+  "center": {
+    "lat": 5.0715788,
+    "lon": -75.5146846
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "Iglesia de San José",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 909706412,
+  "center": {
+    "lat": 5.0808063,
+    "lon": -75.4882600
+  },
+  "tags": {
+    "building": "civic",
+    "building:levels": "1",
+    "name": "Cisco Bosques del Norte"
+  }
+},
+{
+  "type": "way",
+  "id": 911413634,
+  "center": {
+    "lat": 5.0616188,
+    "lon": -75.4903588
+  },
+  "tags": {
+    "addr:city": "Manizales",
+    "addr:housenumber": "#58-65",
+    "addr:street": "Carrera 23",
+    "amenity": "university",
+    "name": "Universidad de Caldas - Sede Palogrande",
+    "opening_hours": "Mo-Th 07:45-11:45, 13:45-17:45, Fr 07:00-15:30",
+    "website": "https://www.ucaldas.edu.co/portal/sedes-y-espacios-institucionales/"
+  }
+},
+{
+  "type": "way",
+  "id": 931593582,
+  "center": {
+    "lat": 5.0962261,
+    "lon": -75.5290221
+  },
+  "tags": {
+    "amenity": "hospital",
+    "healthcare": "hospital",
+    "name": "Hospital Geriátrico San Isidro"
+  }
+},
+{
+  "type": "way",
+  "id": 931602799,
+  "center": {
+    "lat": 5.0776473,
+    "lon": -75.4876412
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "Parroquia Sagrados Corazones de Jesús y María"
+  }
+},
+{
+  "type": "way",
+  "id": 934134950,
+  "center": {
+    "lat": 5.0676308,
+    "lon": -75.5168495
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "3",
+    "historic": "building",
+    "name": "Edificio Rivas"
+  }
+},
+{
+  "type": "way",
+  "id": 934140144,
+  "center": {
+    "lat": 5.0678831,
+    "lon": -75.5169202
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "3",
+    "historic": "building",
+    "name": "Edificio Alejandro Gutiérrez"
+  }
+},
+{
+  "type": "way",
+  "id": 934140147,
+  "center": {
+    "lat": 5.0679125,
+    "lon": -75.5164941
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "2",
+    "historic": "building",
+    "name": "Casa Estrada"
+  }
+},
+{
+  "type": "way",
+  "id": 934140154,
+  "center": {
+    "lat": 5.0681769,
+    "lon": -75.5181798
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "5",
+    "historic": "building",
+    "name": "Hotel Escorial"
+  }
+},
+{
+  "type": "way",
+  "id": 934145281,
+  "center": {
+    "lat": 5.0674776,
+    "lon": -75.5181941
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "4",
+    "historic": "building",
+    "name": "Edificio Árabe"
+  }
+},
+{
+  "type": "way",
+  "id": 936157041,
+  "center": {
+    "lat": 5.0677066,
+    "lon": -75.5182812
+  },
+  "tags": {
+    "historic": "heritage",
+    "landuse": "commercial",
+    "name": "Centro Histórico de Manizales",
+    "protect_class": "22",
+    "source": "POT Manizales;Alcaldía de Manizales",
+    "website": "https://centrohistoricomanizales.com/",
+    "wikidata": "Q25247071",
+    "wikimedia_commons": "Category:Republican architecture in Manizales",
+    "wikipedia": "es:Centro histórico de Manizales"
+  }
+},
+{
+  "type": "way",
+  "id": 953180208,
+  "center": {
+    "lat": 5.0678051,
+    "lon": -75.5200355
+  },
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "name": "Alcaldía de Manizales"
+  }
+},
+{
+  "type": "way",
+  "id": 953575480,
+  "center": {
+    "lat": 5.0881016,
+    "lon": -75.4106680
+  },
+  "tags": {
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Reserva hídrica Río Blanco",
+    "operator": "Corpocaldas",
+    "protect_class": "6"
+  }
+},
+{
+  "type": "way",
+  "id": 954745026,
+  "center": {
+    "lat": 5.0668561,
+    "lon": -75.5185164
+  },
+  "tags": {
+    "building": "yes",
+    "government": "prosecutor",
+    "name": "Fiscalía General de la Nación",
+    "office": "government"
+  }
+},
+{
+  "type": "way",
+  "id": 955151686,
+  "center": {
+    "lat": 5.0678232,
+    "lon": -75.5121376
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "Basílica menor de la Inmaculada Concepción",
+    "religion": "christian",
+    "wikidata": "Q25115618",
+    "wikipedia": "es:Basílica menor de la Inmaculada Concepción (Manizales)"
+  }
+},
+{
+  "type": "way",
+  "id": 955166433,
+  "center": {
+    "lat": 5.0673814,
+    "lon": -75.5173226
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "cathedral",
+    "denomination": "roman_catholic",
+    "name": "Catedral basílica de Nuestra Señora del Rosario de Manizales",
+    "religion": "christian",
+    "wikidata": "Q2942271",
+    "wikimedia_commons": "Category:Catedral Basílica Metropolitana Nuestra Señora del Rosario de Manizales",
+    "wikipedia": "es:Catedral basílica de Nuestra Señora del Rosario (Manizales)"
+  }
+},
+{
+  "type": "way",
+  "id": 958505722,
+  "center": {
+    "lat": 5.0573379,
+    "lon": -75.4981292
+  },
+  "tags": {
+    "leisure": "nature_reserve",
+    "name": "Parque Central Universitario",
+    "natural": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 958513565,
+  "center": {
+    "lat": 5.0636372,
+    "lon": -75.4997283
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "Universidad de Caldas - Facultad de Ciencias para la Salud"
+  }
+},
+{
+  "type": "way",
+  "id": 958909327,
+  "center": {
+    "lat": 5.0795636,
+    "lon": -75.4959654
+  },
+  "tags": {
+    "leisure": "nature_reserve",
+    "name": "Reserva Monteleón",
+    "natural": "wood",
+    "source": "POT Manizales"
+  }
+},
+{
+  "type": "way",
+  "id": 969279471,
+  "center": {
+    "lat": 5.0455672,
+    "lon": -75.5287886
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "Universidad Antonio Nariño"
+  }
+},
+{
+  "type": "way",
+  "id": 995406782,
+  "center": {
+    "lat": 5.0682991,
+    "lon": -75.5121930
+  },
+  "tags": {
+    "alt_name": "Plaza Andina",
+    "leisure": "park",
+    "name": "Parque Ernesto Gutiérrez"
+  }
+},
+{
+  "type": "way",
+  "id": 995406783,
+  "center": {
+    "lat": 5.0676012,
+    "lon": -75.5127433
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Parque Caldas"
+  }
+},
+{
+  "type": "way",
+  "id": 1017038637,
+  "center": {
+    "lat": 5.0569470,
+    "lon": -75.4868291
+  },
+  "tags": {
+    "aerialway": "station",
+    "building": "yes",
+    "name": "El Cable",
+    "network": "Cable aéreo de Manizales",
+    "network:wikidata": "Q5491143",
+    "operator": "Asociación Cable aéreo de Manizales",
+    "public_transport": "station",
+    "subject:wikidata": "Q5491143",
+    "wikidata": "Q140083227",
+    "wikimedia_commons": "Category:Cable Aéreo de Manizales"
+  }
+},
+{
+  "type": "way",
+  "id": 1044309294,
+  "center": {
+    "lat": 5.0297370,
+    "lon": -75.4721421
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "Universidad Nacional - Campus La Nubia"
+  }
+},
+{
+  "type": "way",
+  "id": 1093623362,
+  "center": {
+    "lat": 5.0897538,
+    "lon": -75.4877374
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Parque Los Helechos"
+  }
+},
+{
+  "type": "way",
+  "id": 1131038007,
+  "center": {
+    "lat": 5.0418648,
+    "lon": -75.4449676
+  },
+  "tags": {
+    "addr:city": "Manizales",
+    "addr:country": "CO",
+    "addr:street": "kilometro 11 Via al Magdalena",
+    "addr:suburb": "Recinto del Pensamiento",
+    "architect": "Simón Vélez",
+    "building": "pavilion",
+    "building:levels": "2",
+    "building:material": "bamboo",
+    "contact:facebook": "https://www.facebook.com/recintodelpensamiento",
+    "contact:phone": "+57 305 3561715",
+    "height": "14.5",
+    "name": "Pabellón Zeri",
+    "note": "precursor to zeri pavilion @EXPO2000",
+    "roof:height": "7.5",
+    "roof:material": "roof_tiles",
+    "roof:shape": "pyramidal",
+    "tourism": "viewpoint",
+    "walls": "no",
+    "website": "https://www.recintodelpensamiento.com"
+  }
+},
+{
+  "type": "way",
+  "id": 1221128226,
+  "center": {
+    "lat": 5.0537196,
+    "lon": -75.4976372
+  },
+  "tags": {
+    "aerialway": "station",
+    "building": "yes",
+    "name": "Fátima",
+    "network": "Cable aéreo de Manizales",
+    "operator": "Asociación Cable aéreo de Manizales",
+    "public_transport": "station",
+    "subject:wikidata": "Q5491143",
+    "wikidata": "Q140082699",
+    "wikimedia_commons": "Category:Cable Aéreo de Manizales"
+  }
+},
+{
+  "type": "way",
+  "id": 1221128227,
+  "center": {
+    "lat": 5.0554320,
+    "lon": -75.4917132
+  },
+  "tags": {
+    "aerialway": "station",
+    "building": "yes",
+    "name": "Universidades",
+    "network": "Cable aéreo de Manizales",
+    "operator": "Asociación Cable aéreo de Manizales",
+    "public_transport": "station",
+    "subject:wikidata": "Q5491143",
+    "wikidata": "Q140083008",
+    "wikimedia_commons": "Category:Cable Aéreo de Manizales"
+  }
+},
+{
+  "type": "way",
+  "id": 1266907351,
+  "center": {
+    "lat": 5.0651885,
+    "lon": -75.4765225
+  },
+  "tags": {
+    "addr:city": "Comuna Ecoturística Cerro de Oro",
+    "leisure": "park",
+    "name": "Parque Caminos de la Cumbre"
+  }
+},
+{
+  "type": "way",
+  "id": 1266908160,
+  "center": {
+    "lat": 5.0675585,
+    "lon": -75.4763283
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Parque Colinas de la Cumbre"
+  }
+},
+{
+  "type": "way",
+  "id": 1268447513,
+  "center": {
+    "lat": 5.0552533,
+    "lon": -75.4970029
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Mirador de Betania Bloque E y F"
+  }
+},
+{
+  "type": "way",
+  "id": 1286563832,
+  "center": {
+    "lat": 5.0735714,
+    "lon": -75.5188648
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Parque Liborio"
+  }
+},
+{
+  "type": "way",
+  "id": 1409110672,
+  "center": {
+    "lat": 5.0486976,
+    "lon": -75.5454630
+  },
+  "tags": {
+    "leisure": "nature_reserve",
+    "name": "Reserva La Telaraña",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "way",
+  "id": 1454463025,
+  "center": {
+    "lat": 5.0313685,
+    "lon": -75.4610197
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Parque de La Piedra"
+  }
+},
+{
+  "type": "relation",
+  "id": 366122,
+  "center": {
+    "lat": 5.0687107,
+    "lon": -75.5175378
+  },
+  "tags": {
+    "amenity": "townhall",
+    "building": "yes",
+    "building:levels": "4",
+    "name": "Gobernación de Caldas",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 366565,
+  "center": {
+    "lat": 5.0674367,
+    "lon": -75.5092284
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "2",
+    "historic": "building",
+    "name": "Juan XXIII",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 371143,
+  "center": {
+    "lat": 5.0639756,
+    "lon": -75.5249719
+  },
+  "tags": {
+    "building": "yes",
+    "leisure": "stadium",
+    "name": "Plaza de toros de Manizales",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 391091,
+  "center": {
+    "lat": 5.0618439,
+    "lon": -75.4902463
+  },
+  "tags": {
+    "addr:city": "Manizales",
+    "addr:street": "Carrera 23",
+    "building": "yes",
+    "description": "Museo arqueológico, historia natural y geológico",
+    "name": "Museo Universidad de Caldas",
+    "operator": "Universidad de Caldas",
+    "tourism": "museum",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 392217,
+  "center": {
+    "lat": 5.0669512,
+    "lon": -75.5174273
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "5",
+    "historic": "building",
+    "name": "Edificio Sanz",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 392218,
+  "center": {
+    "lat": 5.0667713,
+    "lon": -75.5193513
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "2",
+    "historic": "building",
+    "name": "Palacio Arzobispal",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 12897232,
+  "center": {
+    "lat": 5.0678198,
+    "lon": -75.4830830
+  },
+  "tags": {
+    "leisure": "nature_reserve",
+    "name": "Ecoparque Los Yarumos",
+    "natural": "wood",
+    "opening_hours": "Tu-Su 09:00-17:00",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 13000642,
+  "center": {
+    "lat": 4.9767346,
+    "lon": -75.4070396
+  },
+  "tags": {
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Reserva Forestal Bosques de la Chec",
+    "natural": "wood",
+    "operator": "Corpocaldas",
+    "protect_class": "6",
+    "source": "Parques Nacionales Naturales de Colombia;POT Manizales",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 14554606,
+  "center": {
+    "lat": 5.0675850,
+    "lon": -75.5043517
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "Universidad Autónoma de Manizales",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

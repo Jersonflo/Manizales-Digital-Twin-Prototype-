@@ -1,0 +1,59 @@
+# Exporta el proyecto a web con Godot y lo publica en GitHub Pages en cada push a main.
+# Requisito (una sola vez): en GitHub, Settings → Pages → Source: "GitHub Actions".
+name: Demo web
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+env:
+  GODOT_VERSION: 4.7.2
+
+jobs:
+  exportar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Descargar Godot y las plantillas de exportación
+        run: |
+          base=https://github.com/godotengine/godot-builds/releases/download/${GODOT_VERSION}-stable
+          wget -q $base/Godot_v${GODOT_VERSION}-stable_linux.x86_64.zip
+          wget -q $base/Godot_v${GODOT_VERSION}-stable_export_templates.tpz
+          unzip -q Godot_v${GODOT_VERSION}-stable_linux.x86_64.zip
+          mv Godot_v${GODOT_VERSION}-stable_linux.x86_64 godot
+          unzip -q Godot_v${GODOT_VERSION}-stable_export_templates.tpz
+          mkdir -p ~/.local/share/godot/export_templates/${GODOT_VERSION}.stable
+          mv templates/* ~/.local/share/godot/export_templates/${GODOT_VERSION}.stable/
+          rm -f *.zip *.tpz
+
+      - name: Importar recursos y exportar a web
+        run: |
+          mkdir -p build/web
+          ./godot --headless --path . --import || true
+          ./godot --headless --path . --export-release "Web" build/web/index.html
+          test -f build/web/index.html
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: build/web
+
+  publicar:
+    needs: exportar
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4

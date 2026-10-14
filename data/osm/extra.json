@@ -1,0 +1,1195 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-14T02:40:49Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 280877419,
+  "lat": 5.0771816,
+  "lon": -75.5282184,
+  "tags": {
+    "name": "Mirador de Chipre",
+    "tourism": "viewpoint"
+  }
+},
+{
+  "type": "node",
+  "id": 581100710,
+  "lat": 5.0769886,
+  "lon": -75.5278097,
+  "tags": {
+    "artwork_type": "sculpture",
+    "historic": "memorial",
+    "memorial": "statue",
+    "name": "Monumento a los Colonizadores",
+    "tourism": "artwork",
+    "wikidata": "Q28663859",
+    "wikimedia_commons": "Category:Monumento de los colonizadores (Manizales)",
+    "wikipedia": "es:Monumento a los Colonizadores"
+  }
+},
+{
+  "type": "node",
+  "id": 582617757,
+  "lat": 5.0676890,
+  "lon": -75.5105388,
+  "tags": {
+    "historic": "monument",
+    "name": "Monumento a los Fundadores",
+    "wikimedia_commons": "File:Monumento_a_Los_Fundadores.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 599740251,
+  "lat": 5.0758405,
+  "lon": -75.5254374,
+  "tags": {
+    "divipola": "17001",
+    "is_in:city": "Manizales",
+    "is_in:country": "Colombia",
+    "is_in:state": "Caldas",
+    "name": "Chipre",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 615809563,
+  "lat": 5.0566899,
+  "lon": -75.4873463,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Palogrande"
+  }
+},
+{
+  "type": "node",
+  "id": 703213846,
+  "lat": 5.0539723,
+  "lon": -75.5418324,
+  "tags": {
+    "divipola": "17001",
+    "fixme": "Revisar: este punto fue creado por importación directa",
+    "is_in:city": "Manizales",
+    "is_in:country": "Colombia",
+    "is_in:state": "Caldas",
+    "name": "El Arenillo",
+    "place": "hamlet",
+    "source": "OCHA Colombia 2010"
+  }
+},
+{
+  "type": "node",
+  "id": 1035750458,
+  "lat": 5.0589801,
+  "lon": -75.4877579,
+  "tags": {
+    "addr:city": "Manizales",
+    "addr:country": "CO",
+    "addr:full": "CL 62 23-36",
+    "addr:housenumber": "23-36",
+    "addr:postcode": "170004",
+    "addr:street": "Calle 62",
+    "email": "contacto@hostalpalogrande.com",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Hostal Palogrande",
+    "phone": "+57 606 8863984",
+    "tourism": "hostel",
+    "website": "http://www.hostalpalogrande.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1691936472,
+  "lat": 5.0516456,
+  "lon": -75.5264599,
+  "tags": {
+    "information": "guidepost",
+    "name": "Red de Ecoparques",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 1864705841,
+  "lat": 5.0670417,
+  "lon": -75.4997064,
+  "tags": {
+    "divipola": "17001",
+    "is_in:city": "Manizales",
+    "is_in:country": "Colombia",
+    "is_in:state": "Caldas",
+    "name": "La Estación",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1864705849,
+  "lat": 5.0576098,
+  "lon": -75.4888734,
+  "tags": {
+    "divipola": "17001",
+    "is_in:city": "Manizales",
+    "is_in:country": "Colombia",
+    "is_in:state": "Caldas",
+    "name": "Palogrande",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 4466740764,
+  "lat": 5.0738494,
+  "lon": -75.5248445,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "level": "0",
+    "name": "Delicias de Chipre",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4757944666,
+  "lat": 5.0764032,
+  "lon": -75.5255255,
+  "tags": {
+    "addr:housenumber": "9-44",
+    "addr:street": "Calle 10",
+    "name": "Casa chipre",
+    "tourism": "guest_house"
+  }
+},
+{
+  "type": "node",
+  "id": 5512254873,
+  "lat": 5.0364651,
+  "lon": -75.4309336,
+  "tags": {
+    "amenity": "police",
+    "name": "Estación de Policía Malteria"
+  }
+},
+{
+  "type": "node",
+  "id": 5670833824,
+  "lat": 5.0747537,
+  "lon": -75.5278280,
+  "tags": {
+    "name": "Desde Chipre",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 8627120342,
+  "lat": 5.0663261,
+  "lon": -75.5098759,
+  "tags": {
+    "name": "Fundadores",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 8629855803,
+  "lat": 5.0521333,
+  "lon": -75.4874382,
+  "tags": {
+    "divipola": "17001",
+    "is_in:city": "Manizales",
+    "is_in:country": "Colombia",
+    "is_in:state": "Caldas",
+    "name": "Palogrande",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 9825202668,
+  "lat": 5.0757740,
+  "lon": -75.5256377,
+  "tags": {
+    "name": "Fruver de Chipre",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 9825221054,
+  "lat": 5.0758924,
+  "lon": -75.5283356,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Factory Chipre"
+  }
+},
+{
+  "type": "node",
+  "id": 10872392833,
+  "lat": 5.0685673,
+  "lon": -75.5171544,
+  "tags": {
+    "description": "Estación meteorológica de Corpocaldas",
+    "man_made": "monitoring_station",
+    "monitoring:PM10": "yes",
+    "monitoring:PM2.5": "yes",
+    "monitoring:ozone": "yes",
+    "monitoring:particulate_matter": "yes",
+    "monitoring:uv_radiation": "yes",
+    "monitoring:wind": "yes",
+    "monitoring:wind_speed": "yes",
+    "name": "estación metereologica Gobernación"
+  }
+},
+{
+  "type": "node",
+  "id": 13009660822,
+  "lat": 5.0593029,
+  "lon": -75.4834640,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "EPM",
+    "name": "Punto de carga CHEC Ecoestación CDA Caldas"
+  }
+},
+{
+  "type": "node",
+  "id": 13009864968,
+  "lat": 5.0658656,
+  "lon": -75.4904234,
+  "tags": {
+    "amenity": "charging_station",
+    "brand": "EPM",
+    "name": "Punto de carga CHEC Ecoestación Mall Plaza"
+  }
+},
+{
+  "type": "node",
+  "id": 14255532073,
+  "lat": 5.0649901,
+  "lon": -75.4885238,
+  "tags": {
+    "addr:city": "Manizales",
+    "addr:postcode": "170006",
+    "addr:street": "Av. Kevin Ángel #55D - 251 Local FC2125",
+    "amenity": "fast_food",
+    "cuisine": "chicken",
+    "name": "Asadero Súper Pollo Al Carbón | Mall Plaza",
+    "opening_hours": "09:00-21:00",
+    "phone": "606 8636838",
+    "website": "https://maps.app.goo.gl/sL5uvcnK3jCGVRAfA"
+  }
+},
+{
+  "type": "way",
+  "id": 45573258,
+  "center": {
+    "lat": 5.0725245,
+    "lon": -75.5253045
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Parque Observatorio de Chipre",
+    "tourism": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 45665804,
+  "center": {
+    "lat": 5.0349652,
+    "lon": -75.4778144
+  },
+  "tags": {
+    "landuse": "recreation_ground",
+    "name": "Bosque Popular El Prado",
+    "official_name": "Parque Bicentenario"
+  }
+},
+{
+  "type": "way",
+  "id": 45703953,
+  "center": {
+    "lat": 5.0684068,
+    "lon": -75.5103652
+  },
+  "tags": {
+    "alt_name": "Centro Cultural y de Convenciones Teatro los Fundadores",
+    "amenity": "theatre",
+    "building": "yes",
+    "is_in:city": "Manizales",
+    "name": "Teatro Fundadores",
+    "name:es": "Teatro Fundadores",
+    "phone": "+57 316 0271434",
+    "website": "https://teatrolosfundadores.com",
+    "wikidata": "Q6139725",
+    "wikipedia": "es:Teatro Fundadores"
+  }
+},
+{
+  "type": "way",
+  "id": 46611367,
+  "center": {
+    "lat": 5.0768542,
+    "lon": -75.5278311
+  },
+  "tags": {
+    "landuse": "village_green",
+    "name": "Monumento a los Colonizadores",
+    "tourism": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 46679941,
+  "center": {
+    "lat": 5.0605392,
+    "lon": -75.4889974
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Multicentro Estrella"
+  }
+},
+{
+  "type": "way",
+  "id": 47459130,
+  "center": {
+    "lat": 5.0582338,
+    "lon": -75.4897669
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "is_in:city": "Manizales",
+    "name": "Estación de Bomberos Palogrande"
+  }
+},
+{
+  "type": "way",
+  "id": 47459545,
+  "center": {
+    "lat": 5.0570292,
+    "lon": -75.4900872
+  },
+  "tags": {
+    "is_in:city": "Manizales",
+    "leisure": "stadium",
+    "name": "Estadio Palogrande",
+    "sport": "soccer",
+    "wikipedia": "es:Estadio Palogrande"
+  }
+},
+{
+  "type": "way",
+  "id": 47465642,
+  "center": {
+    "lat": 5.0569017,
+    "lon": -75.4915856
+  },
+  "tags": {
+    "amenity": "university",
+    "name": "Universidad Nacional - Campus Palogrande"
+  }
+},
+{
+  "type": "way",
+  "id": 48059693,
+  "center": {
+    "lat": 5.0690378,
+    "lon": -75.5104249
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "is_in:city": "Manizales",
+    "name": "Estación de Bomberos Fundadores"
+  }
+},
+{
+  "type": "way",
+  "id": 48179016,
+  "center": {
+    "lat": 5.0799896,
+    "lon": -75.5267069
+  },
+  "tags": {
+    "amenity": "school",
+    "name": "Instituto Chipre"
+  }
+},
+{
+  "type": "way",
+  "id": 48853956,
+  "center": {
+    "lat": 5.0404598,
+    "lon": -75.4456193
+  },
+  "tags": {
+    "brand": "Estelar",
+    "name": "Recinto del Pensamiento Jaime Restrepo Mejía",
+    "natural": "grassland",
+    "tourism": "hotel",
+    "website": "https://www.hotelesestelar.com/es/hotel/estelar-recinto-del-pensamiento-hotel-centro-de-convenciones",
+    "wikidata": "Q25407071",
+    "wikipedia": "es:Recinto del Pensamiento"
+  }
+},
+{
+  "type": "way",
+  "id": 52046033,
+  "center": {
+    "lat": 5.0327174,
+    "lon": -75.4514486
+  },
+  "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Estación de Bomberos Oriental"
+  }
+},
+{
+  "type": "way",
+  "id": 100179046,
+  "center": {
+    "lat": 5.0580027,
+    "lon": -75.5270693
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "El Arenillo"
+  }
+},
+{
+  "type": "way",
+  "id": 116080002,
+  "center": {
+    "lat": 5.0664226,
+    "lon": -75.5052853
+  },
+  "tags": {
+    "landuse": "residential",
+    "name": "La Estación"
+  }
+},
+{
+  "type": "way",
+  "id": 219165572,
+  "center": {
+    "lat": 5.0648746,
+    "lon": -75.5327422
+  },
+  "tags": {
+    "leisure": "nature_reserve",
+    "name": "Ecoparque Alcázares Arenillo",
+    "natural": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 493479287,
+  "center": {
+    "lat": 5.0505407,
+    "lon": -75.5063907
+  },
+  "tags": {
+    "amenity": "fuel",
+    "brand": "Terpel",
+    "building": "roof",
+    "name": "Estación de Servicio Terminal Manizales"
+  }
+},
+{
+  "type": "way",
+  "id": 493479289,
+  "center": {
+    "lat": 5.0504981,
+    "lon": -75.5065276
+  },
+  "tags": {
+    "amenity": "fuel",
+    "brand": "Terpel",
+    "building": "roof",
+    "name": "Estación de Servicio Terminal Manizales"
+  }
+},
+{
+  "type": "way",
+  "id": 494839103,
+  "center": {
+    "lat": 5.0670505,
+    "lon": -75.5114789
+  },
+  "tags": {
+    "aerialway": "station",
+    "building": "yes",
+    "building:levels": "3",
+    "name": "Fundadores",
+    "network:wikidata": "Q5491143",
+    "public_transport": "station",
+    "wikidata": "Q140081890"
+  }
+},
+{
+  "type": "way",
+  "id": 494851365,
+  "center": {
+    "lat": 5.0194924,
+    "lon": -75.4576179
+  },
+  "tags": {
+    "location": "outdoor",
+    "name": "Subestación eléctrica Enea",
+    "operator": "CHEC",
+    "power": "substation",
+    "substation": "transmission",
+    "voltage": "230000"
+  }
+},
+{
+  "type": "way",
+  "id": 495259869,
+  "center": {
+    "lat": 5.0693737,
+    "lon": -75.5248629
+  },
+  "tags": {
+    "landuse": "residential",
+    "name": "Balcones de Chipre"
+  }
+},
+{
+  "type": "way",
+  "id": 497213873,
+  "center": {
+    "lat": 5.0411037,
+    "lon": -75.4897203
+  },
+  "tags": {
+    "amenity": "fuel",
+    "brand": "Terpel",
+    "name": "Estación de Servicio San Juan"
+  }
+},
+{
+  "type": "way",
+  "id": 552209794,
+  "center": {
+    "lat": 5.0745286,
+    "lon": -75.5187096
+  },
+  "tags": {
+    "addr:housenumber": "11-34",
+    "addr:street": "calle 21",
+    "amenity": "taller mecánica y residencia",
+    "building": "yes",
+    "building:levels": "2",
+    "building:material": "wood",
+    "name": "Centro Comercial Automotriz"
+  }
+},
+{
+  "type": "way",
+  "id": 555332690,
+  "center": {
+    "lat": 5.0723215,
+    "lon": -75.5258314
+  },
+  "tags": {
+    "leisure": "bleachers",
+    "name": "Mediatorta de Chipre"
+  }
+},
+{
+  "type": "way",
+  "id": 557420036,
+  "center": {
+    "lat": 5.0677380,
+    "lon": -75.5194408
+  },
+  "tags": {
+    "addr:housenumber": "19-17",
+    "addr:street": "Carrera 22",
+    "building": "commercial",
+    "building:levels": "3",
+    "building:material": "concrete",
+    "name": "Centro comercial la 22",
+    "shop": "jewelry"
+  }
+},
+{
+  "type": "way",
+  "id": 557498768,
+  "center": {
+    "lat": 5.0730836,
+    "lon": -75.5249467
+  },
+  "tags": {
+    "building": "apartments",
+    "building:levels": "3",
+    "name": "Senderos de Chipre"
+  }
+},
+{
+  "type": "way",
+  "id": 557504025,
+  "center": {
+    "lat": 5.0735394,
+    "lon": -75.5261738
+  },
+  "tags": {
+    "amenity": "police",
+    "building": "yes",
+    "name": "CAI Chipre"
+  }
+},
+{
+  "type": "way",
+  "id": 563714953,
+  "center": {
+    "lat": 5.0677917,
+    "lon": -75.5027725
+  },
+  "tags": {
+    "addr:city": "Manizales",
+    "addr:housenumber": "43a - 50",
+    "addr:postcode": "170002",
+    "addr:street": "Carrera 19A",
+    "building": "yes",
+    "layer": "1",
+    "name": "Edificio Fundadores"
+  }
+},
+{
+  "type": "way",
+  "id": 580288171,
+  "center": {
+    "lat": 5.0480678,
+    "lon": -75.5054319
+  },
+  "tags": {
+    "amenity": "fuel",
+    "building": "yes",
+    "name": "Estación de Servicio Terpel",
+    "operator": "Terpel"
+  }
+},
+{
+  "type": "way",
+  "id": 601902449,
+  "center": {
+    "lat": 5.0384818,
+    "lon": -75.4250661
+  },
+  "tags": {
+    "amenity": "fuel",
+    "brand": "Biomax",
+    "brand:wikidata": "Q62274413",
+    "building": "yes",
+    "fuel:diesel": "yes",
+    "fuel:e10": "yes",
+    "name": "Estación de Servicio Biomax Maltería",
+    "operator": "Biomax"
+  }
+},
+{
+  "type": "way",
+  "id": 617501081,
+  "center": {
+    "lat": 5.0553137,
+    "lon": -75.4845602
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Mall Conavi"
+  }
+},
+{
+  "type": "way",
+  "id": 617504462,
+  "center": {
+    "lat": 5.0734097,
+    "lon": -75.4920928
+  },
+  "tags": {
+    "amenity": "police",
+    "name": "Estación De Policia Ciudadela Del Norte",
+    "not:building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 793333465,
+  "center": {
+    "lat": 5.0675848,
+    "lon": -75.5104187
+  },
+  "tags": {
+    "leisure": "park",
+    "name": "Parque Fundadores"
+  }
+},
+{
+  "type": "way",
+  "id": 804965472,
+  "center": {
+    "lat": 5.0291516,
+    "lon": -75.4721170
+  },
+  "tags": {
+    "amenity": "cafe",
+    "building": "yes",
+    "name": "Mall de Fredy"
+  }
+},
+{
+  "type": "way",
+  "id": 819969345,
+  "center": {
+    "lat": 5.0507257,
+    "lon": -75.5065441
+  },
+  "tags": {
+    "amenity": "fuel",
+    "brand": "Terpel",
+    "building": "roof",
+    "name": "Estación de Servicio Terminal Manizales"
+  }
+},
+{
+  "type": "way",
+  "id": 819969346,
+  "center": {
+    "lat": 5.0507443,
+    "lon": -75.5064539
+  },
+  "tags": {
+    "amenity": "fuel",
+    "brand": "Terpel",
+    "building": "roof",
+    "name": "Estación de Servicio Terminal Manizales"
+  }
+},
+{
+  "type": "way",
+  "id": 908962212,
+  "center": {
+    "lat": 5.0676370,
+    "lon": -75.5059217
+  },
+  "tags": {
+    "building": "apartments",
+    "building:levels": "11",
+    "name": "Gran Estación"
+  }
+},
+{
+  "type": "way",
+  "id": 911413634,
+  "center": {
+    "lat": 5.0616188,
+    "lon": -75.4903588
+  },
+  "tags": {
+    "addr:city": "Manizales",
+    "addr:housenumber": "#58-65",
+    "addr:street": "Carrera 23",
+    "amenity": "university",
+    "name": "Universidad de Caldas - Sede Palogrande",
+    "opening_hours": "Mo-Th 07:45-11:45, 13:45-17:45, Fr 07:00-15:30",
+    "website": "https://www.ucaldas.edu.co/portal/sedes-y-espacios-institucionales/"
+  }
+},
+{
+  "type": "way",
+  "id": 930414832,
+  "center": {
+    "lat": 5.0769913,
+    "lon": -75.5278095
+  },
+  "tags": {
+    "area": "yes",
+    "artwork_type": "sculpture",
+    "layer": "-1",
+    "name": "Monumento a los Colonizadores",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "way",
+  "id": 955151687,
+  "center": {
+    "lat": 5.0676851,
+    "lon": -75.5107048
+  },
+  "tags": {
+    "amenity": "fountain",
+    "image": "https://commons.wikimedia.org/wiki/File:Fuente_Los_Fundadores.jpg",
+    "landuse": "basin",
+    "name": "Fuente Los Fundadores",
+    "wikimedia_commons": "File:Fuente_Los_Fundadores.jpg",
+    "year_of_construction": "1887"
+  }
+},
+{
+  "type": "way",
+  "id": 956937633,
+  "center": {
+    "lat": 5.0683935,
+    "lon": -75.5090965
+  },
+  "tags": {
+    "landuse": "residential",
+    "name": "Multi Fundadores"
+  }
+},
+{
+  "type": "way",
+  "id": 958732330,
+  "center": {
+    "lat": 5.0472123,
+    "lon": -75.4436491
+  },
+  "tags": {
+    "name": "Bosque Recinto del Pensamiento",
+    "natural": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 958948671,
+  "center": {
+    "lat": 5.0576671,
+    "lon": -75.5392202
+  },
+  "tags": {
+    "name": "Bosque El Arenillo",
+    "natural": "wood",
+    "source": "POT Manizales"
+  }
+},
+{
+  "type": "way",
+  "id": 967683846,
+  "center": {
+    "lat": 5.0497221,
+    "lon": -75.4815634
+  },
+  "tags": {
+    "name": "Subestación Alta Suiza",
+    "operator": "Chec",
+    "power": "substation"
+  }
+},
+{
+  "type": "way",
+  "id": 971241682,
+  "center": {
+    "lat": 5.0569570,
+    "lon": -75.4895217
+  },
+  "tags": {
+    "leisure": "sports_centre",
+    "name": "Complejo Deportivo Palogrande"
+  }
+},
+{
+  "type": "way",
+  "id": 1085858266,
+  "center": {
+    "lat": 5.0395380,
+    "lon": -75.4962316
+  },
+  "tags": {
+    "amenity": "fuel",
+    "building": "roof",
+    "name": "Estación de Servicio Texaco",
+    "operator": "Texaco"
+  }
+},
+{
+  "type": "way",
+  "id": 1085858783,
+  "center": {
+    "lat": 5.0492034,
+    "lon": -75.5294456
+  },
+  "tags": {
+    "amenity": "fuel",
+    "building": "roof",
+    "fuel:diesel": "yes",
+    "fuel:e10": "yes",
+    "name": "Estación de Servicio La Uribe",
+    "operator": "Terpel"
+  }
+},
+{
+  "type": "way",
+  "id": 1089911719,
+  "center": {
+    "lat": 5.0382749,
+    "lon": -75.4462123
+  },
+  "tags": {
+    "amenity": "fuel",
+    "brand": "Terpel",
+    "brand:wikidata": "Q7703003",
+    "building": "yes",
+    "fuel:diesel": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Estación de Servicio Terpel Manizales",
+    "operator": "Terpel"
+  }
+},
+{
+  "type": "way",
+  "id": 1229487775,
+  "center": {
+    "lat": 5.0693057,
+    "lon": -75.5096502
+  },
+  "tags": {
+    "landuse": "retail",
+    "name": "Fundadores"
+  }
+},
+{
+  "type": "way",
+  "id": 1229488079,
+  "center": {
+    "lat": 5.0657840,
+    "lon": -75.4901203
+  },
+  "tags": {
+    "landuse": "retail",
+    "name": "Mall Plaza"
+  }
+},
+{
+  "type": "way",
+  "id": 1324024351,
+  "center": {
+    "lat": 5.0372976,
+    "lon": -75.4198412
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Estación Miraflores"
+  }
+},
+{
+  "type": "way",
+  "id": 1324024352,
+  "center": {
+    "lat": 5.0372890,
+    "lon": -75.4197169
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Estación Miraflores"
+  }
+},
+{
+  "type": "way",
+  "id": 1373477887,
+  "center": {
+    "lat": 5.0565109,
+    "lon": -75.4872309
+  },
+  "tags": {
+    "building": "apartments",
+    "building:levels": "15",
+    "name": "Altos de Palogrande"
+  }
+},
+{
+  "type": "way",
+  "id": 1409111115,
+  "center": {
+    "lat": 5.0498310,
+    "lon": -75.5449516
+  },
+  "tags": {
+    "name": "Quebrada Arenillo Bajo",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "way",
+  "id": 1409111116,
+  "center": {
+    "lat": 5.0535511,
+    "lon": -75.5432548
+  },
+  "tags": {
+    "name": "Quebrada Arenillo Bajo",
+    "waterway": "stream",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 1409111117,
+  "center": {
+    "lat": 5.0533670,
+    "lon": -75.5438969
+  },
+  "tags": {
+    "layer": "-1",
+    "name": "Quebrada Arenillo Bajo",
+    "tunnel": "culvert",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "way",
+  "id": 1409111118,
+  "center": {
+    "lat": 5.0529565,
+    "lon": -75.5441594
+  },
+  "tags": {
+    "name": "Quebrada Arenillo Bajo",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "way",
+  "id": 1409111119,
+  "center": {
+    "lat": 5.0525481,
+    "lon": -75.5444325
+  },
+  "tags": {
+    "layer": "-1",
+    "name": "Quebrada Arenillo Bajo",
+    "tunnel": "culvert",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "relation",
+  "id": 375993,
+  "center": {
+    "lat": 5.0570292,
+    "lon": -75.4900872
+  },
+  "tags": {
+    "building": "stadium",
+    "building:levels": "5",
+    "name": "Estadio Palogrande",
+    "type": "multipolygon",
+    "wikidata": "Q943259",
+    "wikipedia": "es:Estadio Palogrande"
+  }
+},
+{
+  "type": "relation",
+  "id": 406049,
+  "center": {
+    "lat": 5.0651263,
+    "lon": -75.4983713
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Comuna La Estación",
+    "type": "boundary",
+    "wikidata": "Q5840636",
+    "wikipedia": "es:Estación (Manizales)"
+  }
+},
+{
+  "type": "relation",
+  "id": 406052,
+  "center": {
+    "lat": 5.0521362,
+    "lon": -75.4881082
+  },
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Comuna Palogrande",
+    "type": "boundary",
+    "wikidata": "Q6059120",
+    "wikipedia": "es:Palogrande"
+  }
+},
+{
+  "type": "relation",
+  "id": 12856878,
+  "center": {
+    "lat": 5.0680575,
+    "lon": -75.5173618
+  },
+  "tags": {
+    "highway": "pedestrian",
+    "is_in:city": "Manizales",
+    "lit": "yes",
+    "name": "Plaza de Bolívar",
+    "place": "square",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 12897232,
+  "center": {
+    "lat": 5.0678198,
+    "lon": -75.4830830
+  },
+  "tags": {
+    "leisure": "nature_reserve",
+    "name": "Ecoparque Los Yarumos",
+    "natural": "wood",
+    "opening_hours": "Tu-Su 09:00-17:00",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 16650893,
+  "center": {
+    "lat": 5.0537196,
+    "lon": -75.4976372
+  },
+  "tags": {
+    "name": "Estación Fátima",
+    "network:wikidata": "Q5491143",
+    "type": "building",
+    "wikidata": "Q5491143",
+    "wikipedia": "es:Cable Aéreo de Manizales"
+  }
+},
+{
+  "type": "relation",
+  "id": 16650894,
+  "center": {
+    "lat": 5.0554320,
+    "lon": -75.4917132
+  },
+  "tags": {
+    "name": "Estación Universidades",
+    "network:wikidata": "Q5491143",
+    "type": "building",
+    "wikidata": "Q5491143",
+    "wikipedia": "es:Cable Aéreo de Manizales"
+  }
+}
+
+  ]
+}

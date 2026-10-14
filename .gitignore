@@ -1,0 +1,21 @@
+# Godot 4+
+.godot/
+/android/
+build/
+
+# Paquetes de assets de terceros: tienen su propia licencia y pesan cientos de MB
+Assets/
+
+# Escena anterior, depende de Assets/
+Scenes/Manizales.tscn
+Scenes/Manizales.tscn.uid
+
+# Imagen de referencia con derechos de autor (mapa ilustrado de otra autora)
+Reference/*.jpeg
+Reference/*.jpeg.import
+
+# Capturas de trabajo, video de la demo y entorno de Python
+tools/previews/
+tools/ml/.venv/
+__pycache__/
+*.pyc

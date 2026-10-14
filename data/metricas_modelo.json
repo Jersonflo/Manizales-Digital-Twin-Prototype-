@@ -1,0 +1,63 @@
+{
+ "periodo_prueba": [
+  "2026-01-01",
+  "2026-07-24"
+ ],
+ "filas_entrenamiento": 60945,
+ "filas_prueba": 28734,
+ "modelos": {
+  "Open-Meteo": {
+   "mae": 1.345,
+   "rmse": 1.911,
+   "sesgo": 0.549,
+   "mae_por_anticipacion": {
+    "0": 1.123,
+    "1": 1.406,
+    "2": 1.506
+   }
+  },
+  "Sesgo por hora": {
+   "mae": 1.574,
+   "rmse": 2.103,
+   "sesgo": 0.6,
+   "mae_por_anticipacion": {
+    "0": 1.123,
+    "1": 1.729,
+    "2": 1.869
+   }
+  },
+  "Regresión lineal": {
+   "mae": 1.347,
+   "rmse": 1.732,
+   "sesgo": 0.571,
+   "mae_por_anticipacion": {
+    "0": 1.261,
+    "1": 1.359,
+    "2": 1.42
+   }
+  },
+  "Gradient boosting": {
+   "mae": 1.082,
+   "rmse": 1.455,
+   "sesgo": 0.38,
+   "mae_por_anticipacion": {
+    "0": 1.01,
+    "1": 1.111,
+    "2": 1.124
+   }
+  }
+ },
+ "mejora_mae_pct": 19.6,
+ "importancia": {
+  "t_pron": 0.628,
+  "viento": 0.123,
+  "hora_cos": 0.111,
+  "humedad": 0.058,
+  "hora_sin": 0.028,
+  "dia_sin": 0.021,
+  "dia_cos": 0.019,
+  "anticipacion": 0.008,
+  "nubes": 0.002,
+  "lluvia": 0.001
+ }
+}

@@ -1,0 +1,340 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-14T03:17:06Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "relation",
+  "id": 385843,
+  "tags": {
+    "admin_level": "6",
+    "boundary": "administrative",
+    "divipola": "17873",
+    "entidad_te": "Cabecera Municipal",
+    "name": "Villamaría",
+    "source": "OCHA - SIGOT",
+    "type": "boundary",
+    "wikidata": "Q961399",
+    "wikipedia": "es:Villamaría"
+  }
+},
+{
+  "type": "relation",
+  "id": 396705,
+  "tags": {
+    "ISO3166-2": "CO-CAL",
+    "admin_level": "4",
+    "boundary": "administrative",
+    "is_in:country": "Colombia",
+    "name": "Caldas",
+    "name:ar": "كالداس",
+    "name:de": "Caldas",
+    "name:el": "Καλδάς",
+    "name:en": "Caldas",
+    "name:eo": "Kaldaso",
+    "name:es": "Caldas",
+    "name:etymology": "Francisco José de Caldas",
+    "name:etymology:wikidata": "Q1442069",
+    "name:fr": "Caldas",
+    "name:ja": "カルダス県",
+    "name:ko": "칼다스",
+    "name:lt": "Kaldas",
+    "name:ru": "Калдас",
+    "name:uk": "Кальдас",
+    "name:zh": "卡尔达斯省",
+    "population": "1170187",
+    "ref": "CAL",
+    "type": "boundary",
+    "wikidata": "Q230607",
+    "wikipedia": "es:Caldas"
+  }
+},
+{
+  "type": "relation",
+  "id": 406045,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Comuna Cumanday",
+    "type": "boundary",
+    "wikidata": "Q5794660",
+    "wikipedia": "es:Cumanday"
+  }
+},
+{
+  "type": "relation",
+  "id": 406047,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Comuna Ecoturística Cerro de Oro",
+    "type": "boundary",
+    "wikidata": "Q5817352",
+    "wikipedia": "es:Ecoturístico Cerro de Oro"
+  }
+},
+{
+  "type": "relation",
+  "id": 406048,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Comuna La Fuente",
+    "type": "boundary",
+    "wikidata": "Q5963451",
+    "wikipedia": "es:La Fuente (Manizales)"
+  }
+},
+{
+  "type": "relation",
+  "id": 406049,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Comuna La Estación",
+    "type": "boundary",
+    "wikidata": "Q5840636",
+    "wikipedia": "es:Estación (Manizales)"
+  }
+},
+{
+  "type": "relation",
+  "id": 406050,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Comuna Atardeceres",
+    "type": "boundary",
+    "wikidata": "Q5710449",
+    "wikipedia": "es:Atardeceres"
+  }
+},
+{
+  "type": "relation",
+  "id": 406051,
+  "tags": {
+    "admin_level": "7",
+    "boundary": "administrative",
+    "divipola": "17001000",
+    "is_in:country": "Colombia",
+    "is_in:country_code": "CO",
+    "is_in:state": "Caldas",
+    "name": "Perímetro Urbano Manizales",
+    "name:ar": "منثاليس",
+    "name:ca": "Manizales",
+    "name:de": "Manizales",
+    "name:en": "Manizales",
+    "name:fr": "Manizales",
+    "name:ja": "マニサレス",
+    "name:ko": "마니살레스",
+    "name:lt": "Manisalesas",
+    "name:ru": "Манисалес",
+    "name:uk": "Манісалес",
+    "name:zh": "马尼萨莱斯",
+    "place": "city",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 406052,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Comuna Palogrande",
+    "type": "boundary",
+    "wikidata": "Q6059120",
+    "wikipedia": "es:Palogrande"
+  }
+},
+{
+  "type": "relation",
+  "id": 406053,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Comuna Universitaria",
+    "type": "boundary",
+    "wikidata": "Q6156879",
+    "wikipedia": "es:Universitaria (Manizales)"
+  }
+},
+{
+  "type": "relation",
+  "id": 406054,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Comuna San José",
+    "type": "boundary",
+    "wikidata": "Q6118971",
+    "wikipedia": "es:San José (Manizales)"
+  }
+},
+{
+  "type": "relation",
+  "id": 406055,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Comuna Tesorito",
+    "type": "boundary",
+    "wikidata": "Q9086348",
+    "wikipedia": "es:Tesorito"
+  }
+},
+{
+  "type": "relation",
+  "id": 406056,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Comuna La Macarena",
+    "type": "boundary",
+    "wikidata": "Q6460334",
+    "wikipedia": "es:La Macarena (Manizales)"
+  }
+},
+{
+  "type": "relation",
+  "id": 1999140,
+  "tags": {
+    "admin_level": "7",
+    "boundary": "administrative",
+    "divipola": "17001037",
+    "is_in:country": "Colombia",
+    "is_in:country_code": "CO",
+    "is_in:state": "Caldas",
+    "is_in:town": "Manizales",
+    "name": "Corredor Agroturístico",
+    "type": "boundary",
+    "wikidata": "Q5789107",
+    "wikipedia": "es:Corredor Agroturístico"
+  }
+},
+{
+  "type": "relation",
+  "id": 1999141,
+  "tags": {
+    "admin_level": "7",
+    "boundary": "administrative",
+    "divipola": "17001038",
+    "is_in:country": "Colombia",
+    "is_in:country_code": "CO",
+    "is_in:state": "Caldas",
+    "is_in:town": "Manizales",
+    "name": "Cristalina",
+    "type": "boundary",
+    "wikidata": "Q5791210",
+    "wikipedia": "es:Cristalina (Manizales)"
+  }
+},
+{
+  "type": "relation",
+  "id": 1999142,
+  "tags": {
+    "admin_level": "7",
+    "boundary": "administrative",
+    "divipola": "17001039",
+    "is_in:country": "Colombia",
+    "is_in:country_code": "CO",
+    "is_in:state": "Caldas",
+    "is_in:town": "Manizales",
+    "name": "El Manantial",
+    "type": "boundary",
+    "wikidata": "Q2888415",
+    "wikipedia": "es:El Manantial (Manizales)"
+  }
+},
+{
+  "type": "relation",
+  "id": 1999143,
+  "tags": {
+    "admin_level": "7",
+    "boundary": "administrative",
+    "divipola": "17001040",
+    "is_in:country": "Colombia",
+    "is_in:country_code": "CO",
+    "is_in:state": "Caldas",
+    "is_in:town": "Manizales",
+    "name": "El Remanso",
+    "type": "boundary",
+    "wikidata": "Q5823117",
+    "wikipedia": "es:El Remanso (Manizales)"
+  }
+},
+{
+  "type": "relation",
+  "id": 1999144,
+  "tags": {
+    "admin_level": "7",
+    "boundary": "administrative",
+    "divipola": "17001041",
+    "is_in:country": "Colombia",
+    "is_in:country_code": "CO",
+    "is_in:state": "Caldas",
+    "is_in:town": "Manizales",
+    "name": "Panorama",
+    "type": "boundary",
+    "wikidata": "Q5658960",
+    "wikipedia": "es:Panorama (Manizales)"
+  }
+},
+{
+  "type": "relation",
+  "id": 1999145,
+  "tags": {
+    "admin_level": "7",
+    "boundary": "administrative",
+    "divipola": "17001042",
+    "is_in:country": "Colombia",
+    "is_in:country_code": "CO",
+    "is_in:state": "Caldas",
+    "is_in:town": "Manizales",
+    "name": "Río Blanco",
+    "type": "boundary",
+    "wikidata": "Q5551237",
+    "wikipedia": "es:Río Blanco (Manizales)"
+  }
+},
+{
+  "type": "relation",
+  "id": 12840857,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Comuna Ciudadela del Norte",
+    "type": "boundary",
+    "wikidata": "Q5770913",
+    "wikipedia": "es:Ciudadela del Norte"
+  }
+},
+{
+  "type": "relation",
+  "id": 12840867,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Comuna Nuevo Horizonte",
+    "source": "POT Manizales",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 13344171,
+  "tags": {
+    "admin_level": "7",
+    "boundary": "administrative",
+    "name": "Cabecera Municipal Villamaría",
+    "source": "DANE",
+    "type": "boundary"
+  }
+}
+
+  ]
+}

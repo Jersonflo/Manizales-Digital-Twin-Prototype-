@@ -1,0 +1,5 @@
+[out:json][timeout:90];
+(
+  nwr["name"~"Mall Plaza|Fundadores|Bosque Popular|Recinto del Pensamiento|Multicentro|Mall|Centro Comercial|Monumento|Ecoparque|Estación|Plaza de Bolívar|Palogrande|Arenillo|Chipre",i](5.0,-75.56,5.11,-75.40);
+);
+out tags center;
